@@ -16,6 +16,8 @@ import com.squareup.picasso.Picasso;
  */
 public class DetailActivity extends AppCompatActivity {
 
+    //XXX
+
     ImageView iv_photo;
     TextView tv_name, tv_id, tv_category, tv_price, tv_instruction;
 
